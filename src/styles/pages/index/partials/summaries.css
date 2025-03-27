@@ -1,0 +1,23 @@
+.summaries {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.summaries summary {
+    list-style: none; 
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.summaries ul {
+    list-style-type: none;
+}
+
+.summaries li {
+    text-indent: 30px;
+}
+

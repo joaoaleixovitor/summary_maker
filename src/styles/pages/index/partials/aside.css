@@ -1,0 +1,4 @@
+aside {
+    background-color: var(--aside);
+    border-right: 1px solid var(--line);
+}
