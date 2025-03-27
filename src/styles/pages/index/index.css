@@ -4,7 +4,9 @@
 @import url(partials/aside.css);
 @import url(partials/header.css);
 @import url(partials/summaries.css);
+@import url(partials/manage-summaries.css);
 @import url(partials/content.css);
-@import url(partials/rows.css);
 
+@import url(partials/rows.css);
 @import url(partials/buttons.css);
+@import url(partials/input-text.css);

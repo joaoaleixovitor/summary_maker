@@ -1,5 +1,8 @@
 :root {
     --background: #1E1E1E;
     --aside: #2C2C2C;
+    --sumaryHover: #3f3f3f;
+    --sumarySelected: #646464;
+    --inputText: #3f3f3f;
     --line: #444444;
 }
