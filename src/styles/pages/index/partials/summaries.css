@@ -11,6 +11,8 @@
     cursor: pointer;
     display: flex;
     align-items: center;
+    font-size: 1.1em;
+    font-weight: bold;
 }
 
 .summaries span {
@@ -19,9 +21,6 @@
 
 .summaries ul {
     list-style-type: none;
+    font-weight: 100;
+    color: #dfdfdf;
 }
-
-.summaries li {
-    text-indent: 32px;
-}
-
