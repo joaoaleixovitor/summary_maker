@@ -3,7 +3,7 @@
     flex-flow: row nowrap;
     justify-content: space-between;
     align-items: flex-start;
-    padding: 10px;
+    padding: 12px;
 }
 
 .summaries summary {
@@ -13,11 +13,15 @@
     align-items: center;
 }
 
+.summaries span {
+    margin-right: 4px;
+}
+
 .summaries ul {
     list-style-type: none;
 }
 
 .summaries li {
-    text-indent: 30px;
+    text-indent: 32px;
 }
 
